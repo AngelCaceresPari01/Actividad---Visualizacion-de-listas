@@ -1,5 +1,7 @@
 Nombre: Angel Raul Caceres Pari
 
+https://github.com/AngelCaceresPari01/Actividad---Visualizacion-de-listas/  
+
 En este código, el elemento seleccionado en la lista se actualiza y se recompone de inmediato sin necesidad 
 de hacer scroll porque la lista se creó usando un estado observable (mutableStateListOf) dentro de remember. 
 Esto significa que cada posición de la lista está “vinculada” a un estado que Jetpack Compose vigila constantemente. 
